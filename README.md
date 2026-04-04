@@ -1,4 +1,4 @@
-Hi, here is the quick overview of my career journey:
+Hi, here is the quick overview of my professional journey:
 
 ## Foundation
 My journey primarily began with a focus on high-stakes System Design and Cloud-Native Development at Amdocs. I was tasked to reengineer and optimize the operational overheads with AI, where I spearheaded a multi-agent systems like Doxana and OpsGPT under Amdocs AI Suite (amAIz). By architecting these cloud native LLM-based solutions, I learned how to build backend systems that don't just run, but scale and sustain peak efficiency.

@@ -10,11 +10,11 @@ Driven by a desire to bridge technical expertise with a lifelong interest in eco
 Beyond my current role, I leverage six years of software engineering expertise and deep exposure to global financial systems to advance Digital Assets and DeFi. Having engineered experimental projects across Ethereum and Hyperledger, I am currently specializing in [institutional liquidity layers](https://institutions.ethereum.org). I am driven to build transparent, permissionless systems that bridge the gap between TradFi and DeFi, translating complex technical frameworks into efficient, real-world financial solutions.
  
 ## Technical and Domain Capabilities:
-Decentralized Infrastructure: Ethereum, IPFS, Web3, ZKP, Docker Node Simulation.
-AI: GenAI (LLMs), Multi-agent systems, MLOps, Python.
-Cloud & Scale: AWS Certified Solutions Architect & Developer, Azure, Terraform, Kubernetes.
-Engineering Core: ~6 years of experience in cloud native system design, CI/CD.
-Domains: Information Technology, Finance Markets, Economics
+- Decentralized Infrastructure: Ethereum, IPFS, Web3, ZKP.
+- AI: GenAI (LLMs), Multi-agent systems, MLOps, Python.
+- Cloud & Scale: AWS Certified Solutions Architect & Developer, Azure, Terraform, Docker & Kubernetes.
+- Engineering Core: ~6 years of experience in cloud native system design, CI/CD.
+- Domains: Computer Science, Financial Markets, Economics
 
 <hr/>
 

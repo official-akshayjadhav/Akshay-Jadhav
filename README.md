@@ -4,10 +4,10 @@ Hi, here is the quick overview of my career journey:
 My journey primarily began with a focus on high-stakes System Design and Cloud-Native Development at Amdocs. I was tasked to reengineer and optimize the operational overheads with AI, where I spearheaded a multi-agent systems like Doxana and OpsGPT under Amdocs AI Suite (amAIz). By architecting these cloud native LLM-based solutions, I learned how to build backend systems that don't just run, but scale and sustain peak efficiency.
  
 ## Aligning Domain with Finance
-Driven by a desire to align my technical expertise with my long-standing interest in the economics and financial sector, I joined UBS. This move was a deliberate step to immerse myself in the complexities of a global bank’s ecosystem. As part of the central AI team, I now work at the intersection of Agentic AI and MLOps, designing AI platform for various financial use-cases.
+Driven by a desire to bridge technical expertise with a lifelong interest in economics, I joined UBS to immerse myself in the complexities of global banking. As a member of the  AI Foundation team, I operate at the intersection of Agentic AI and MLOps, architecting the platforms that power diverse financial use-cases across the firm.
  
 ## Heading towards Digital Assets and DeFi
-Along with my present job, I am channeling my six years of software engineering experience and deep exposure to global financial systems towards Digital Assets and DeFi (Decentralized Finance). Having developed experimental projects across the blockchain ecosystem like Ethereum and Hyperledger, and so on. Now I am specializing the Ethereum based Institutional Liquidity Layer, and driven to leverage my background in technology and finance to build transparent, permissionless, and efficient decentralized systems that bridge the gap between TradFi and DeFi and solve real-world challenges.
+Beyond my current role, I leverage six years of software engineering expertise and deep exposure to global financial systems to advance Digital Assets and DeFi. Having engineered experimental projects across Ethereum and Hyperledger, I am currently specializing in [institutional liquidity layers](https://institutions.ethereum.org). I am driven to build transparent, permissionless systems that bridge the gap between TradFi and DeFi, translating complex technical frameworks into efficient, real-world financial solutions.
  
 ## Technical and Domain Capabilities:
 Decentralized Infrastructure: Ethereum, IPFS, Web3, ZKP, Docker Node Simulation.

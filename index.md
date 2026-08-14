@@ -1,7 +1,5 @@
 # Akshay Jadhav
 
----
-
 ## Professional Summary
 Blockchain Engineer with 6 years of experience building various blockchain and institutional tokenization solutions, along with experience of building LLM systems, and high-throughput backend architectures. Specializes in EVM-Compatible smart contract design, automated compliance architectures, and secure mainnet deployments. A strategic problem solver who bridges decentralized finance with enterprise core systems to deliver highly optimized, zero-vulnerability blockchain based solutions.
 

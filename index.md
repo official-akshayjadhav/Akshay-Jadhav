@@ -1,6 +1,4 @@
-import weasyprint
-
-html_content = """<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -253,10 +251,3 @@ html_content = """<!DOCTYPE html>
 
 </body>
 </html>
-"""
-
-with open("about-page-preview.html", "w") as f:
-    f.write(html_content)
-
-weasyprint.HTML("about-page-preview.html").write_pdf("about-page-preview.pdf")
-print("PDF generated successfully.")

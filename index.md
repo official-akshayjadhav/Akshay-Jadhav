@@ -1,6 +1,4 @@
 # Akshay Jadhav
-**Blockchain Developer**  
-+91 9730853079 | akshayj9809@gmail.com | Pune, India | [linkedin.com/in/akshayj9809](https://linkedin.com/in/akshayj9809)
 
 ---
 
@@ -79,3 +77,7 @@ Blockchain Engineer with 6 years of experience building various blockchain and i
 - Hindi
 - Marathi
 - German
+
+## Contact
+akshayj9809@gmail.com | India | [linkedin.com/in/akshayj9809](https://linkedin.com/in/akshayj9809)
+
